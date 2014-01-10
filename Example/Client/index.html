@@ -1,0 +1,36 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<script type="text/javascript">
+        var socket = "";
+        
+try {
+ socket = new WebSocket('ws://192.168.178.31:8181');
+} catch (err) {
+ debug(err, 'error');
+}
+	socket.onopen = function() {
+            alert('handshake successfully established. May send data now...');
+		socket.send("{Key:newOn,Data:Der feit hat des drauf obwohl er davon ka hat^^}");
+        };
+        socket.onclose = function() {
+            alert('connection closed');
+        };
+	socket.onmessage = function() {
+		alert("was bekommen");
+	};
+	
+function encode_utf8(s) {
+  return unescape(encodeURIComponent(s));
+}
+
+function decode_utf8(s) {
+  return decodeURIComponent(escape(s));
+}
+
+    </script>
+</head>
+<body>
+</body>
+</html>

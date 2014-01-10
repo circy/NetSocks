@@ -1,0 +1,11 @@
+C:\Users\Basti\Documents\GitHub\SocketIoNetServer\Example\SocketIoNetServerTester\bin\Debug\SocketIoNetServerTester.exe.config
+C:\Users\Basti\Documents\GitHub\SocketIoNetServer\Example\SocketIoNetServerTester\bin\Debug\SocketIoNetServerTester.exe
+C:\Users\Basti\Documents\GitHub\SocketIoNetServer\Example\SocketIoNetServerTester\bin\Debug\SocketIoNetServerTester.pdb
+C:\Users\Basti\Documents\GitHub\SocketIoNetServer\Example\SocketIoNetServerTester\bin\Debug\SocketIoNetServer.dll
+C:\Users\Basti\Documents\GitHub\SocketIoNetServer\Example\SocketIoNetServerTester\bin\Debug\SocketIoNetServer.pdb
+C:\Users\Basti\Documents\GitHub\SocketIoNetServer\Example\SocketIoNetServerTester\obj\Debug\SocketIoNetServerTester.csprojResolveAssemblyReference.cache
+C:\Users\Basti\Documents\GitHub\SocketIoNetServer\Example\SocketIoNetServerTester\obj\Debug\SocketIoNetServerTester.Form1.resources
+C:\Users\Basti\Documents\GitHub\SocketIoNetServer\Example\SocketIoNetServerTester\obj\Debug\SocketIoNetServerTester.Properties.Resources.resources
+C:\Users\Basti\Documents\GitHub\SocketIoNetServer\Example\SocketIoNetServerTester\obj\Debug\SocketIoNetServerTester.csproj.GenerateResource.Cache
+C:\Users\Basti\Documents\GitHub\SocketIoNetServer\Example\SocketIoNetServerTester\obj\Debug\SocketIoNetServerTester.exe
+C:\Users\Basti\Documents\GitHub\SocketIoNetServer\Example\SocketIoNetServerTester\obj\Debug\SocketIoNetServerTester.pdb

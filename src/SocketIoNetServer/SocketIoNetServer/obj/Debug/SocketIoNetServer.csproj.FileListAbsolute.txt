@@ -1,0 +1,5 @@
+C:\Users\Basti\Documents\GitHub\SocketIoNetServer\src\SocketIoNetServer\SocketIoNetServer\bin\Debug\SocketIoNetServer.dll
+C:\Users\Basti\Documents\GitHub\SocketIoNetServer\src\SocketIoNetServer\SocketIoNetServer\bin\Debug\SocketIoNetServer.pdb
+C:\Users\Basti\Documents\GitHub\SocketIoNetServer\src\SocketIoNetServer\SocketIoNetServer\obj\Debug\SocketIoNetServer.csprojResolveAssemblyReference.cache
+C:\Users\Basti\Documents\GitHub\SocketIoNetServer\src\SocketIoNetServer\SocketIoNetServer\obj\Debug\SocketIoNetServer.dll
+C:\Users\Basti\Documents\GitHub\SocketIoNetServer\src\SocketIoNetServer\SocketIoNetServer\obj\Debug\SocketIoNetServer.pdb
