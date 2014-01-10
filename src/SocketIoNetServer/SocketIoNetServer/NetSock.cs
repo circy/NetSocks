@@ -9,7 +9,7 @@ using System.Threading;
 using System.Web;
 using System.Web.Script.Serialization;
 
-namespace SocketIoNetServer
+namespace NetSock
 {
     public class SokcketServer
     {

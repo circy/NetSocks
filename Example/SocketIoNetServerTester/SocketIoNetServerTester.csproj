@@ -78,9 +78,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\src\SocketIoNetServer\SocketIoNetServer\SocketIoNetServer.csproj">
+    <ProjectReference Include="..\..\src\SocketIoNetServer\SocketIoNetServer\NetSock.csproj">
       <Project>{0336228f-5301-432b-8af4-35e09a5b14c0}</Project>
-      <Name>SocketIoNetServer</Name>
+      <Name>NetSock</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

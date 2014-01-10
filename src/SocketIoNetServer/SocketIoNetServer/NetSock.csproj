@@ -7,7 +7,7 @@
     <ProjectGuid>{0336228F-5301-432B-8AF4-35E09A5B14C0}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SocketIoNetServer</RootNamespace>
+    <RootNamespace>NetSock</RootNamespace>
     <AssemblyName>SocketIoNetServer</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
@@ -41,10 +41,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="SocketIoNetServer\On.cs" />
-    <Compile Include="SocketIoNetServer\WebsocketClient.cs" />
-    <Compile Include="SocketIoNetServer\WebSocketData.cs" />
-    <Compile Include="SocketServer.cs" />
+    <Compile Include="NetSock\On.cs" />
+    <Compile Include="NetSock\WebsocketClient.cs" />
+    <Compile Include="NetSock\WebSocketData.cs" />
+    <Compile Include="NetSock.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -9,3 +9,6 @@ C:\Users\Basti\Documents\GitHub\SocketIoNetServer\Example\SocketIoNetServerTeste
 C:\Users\Basti\Documents\GitHub\SocketIoNetServer\Example\SocketIoNetServerTester\obj\Debug\SocketIoNetServerTester.csproj.GenerateResource.Cache
 C:\Users\Basti\Documents\GitHub\SocketIoNetServer\Example\SocketIoNetServerTester\obj\Debug\SocketIoNetServerTester.exe
 C:\Users\Basti\Documents\GitHub\SocketIoNetServer\Example\SocketIoNetServerTester\obj\Debug\SocketIoNetServerTester.pdb
+C:\Users\Basti\Documents\GitHub\NetSocks\Example\SocketIoNetServerTester\bin\Debug\SocketIoNetServerTester.exe.config
+C:\Users\Basti\Documents\GitHub\NetSocks\Example\SocketIoNetServerTester\obj\Debug\SocketIoNetServerTester.exe
+C:\Users\Basti\Documents\GitHub\NetSocks\Example\SocketIoNetServerTester\obj\Debug\SocketIoNetServerTester.pdb

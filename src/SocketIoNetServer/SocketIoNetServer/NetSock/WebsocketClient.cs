@@ -9,8 +9,7 @@ using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading;
 
-
-namespace SocketIoNetServer
+namespace NetSock
 {
     public class WebsocketClient
     {

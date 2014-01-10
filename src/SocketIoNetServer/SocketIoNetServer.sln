@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Express 2013 for Windows Desktop
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketIoNetServer", "SocketIoNetServer\SocketIoNetServer.csproj", "{0336228F-5301-432B-8AF4-35E09A5B14C0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetSock", "SocketIoNetServer\NetSock.csproj", "{0336228F-5301-432B-8AF4-35E09A5B14C0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketIoNetServerTester", "..\..\Example\SocketIoNetServerTester\SocketIoNetServerTester.csproj", "{D4D63FD6-45D4-4EB1-A64B-AFEDF12AB589}"
 EndProject
