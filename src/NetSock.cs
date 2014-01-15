@@ -11,6 +11,7 @@ using System.Web.Script.Serialization;
 
 namespace NetSock
 {
+    
     public class SokcketServer
     {
         private string _webSocketOrigin;
@@ -82,4 +83,5 @@ namespace NetSock
             }
         }
     }
+    
 }
